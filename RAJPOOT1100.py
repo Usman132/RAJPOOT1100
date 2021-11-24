@@ -1,6 +1,6 @@
 # coding: utf-8
 # Decompiled By RANA RAJPOOT
-# Github : https://github.com/Usman132/RAJPOOT
+# Github : https://github.com/Usman132/RAJPOOT1100
 # uncompyle6 version 1.1.2
 # Original written By RANA RAJPOOT
 
@@ -88,7 +88,7 @@ logo = """
 \x1b[1;96m_________________________________________________
 \x1b[1;96m\033[1;96mAuthor   :            RANA RAJPOOT
 \x1b[1;96m\033[1;96mFacebook :         https://www.facebook.com/subhan.shahzad.52012
-\x1b[1;96m\033[1;96mGitHub   :             https://github.com/Usman132/RAJPOOT
+\x1b[1;96m\033[1;96mGitHub   :             https://github.com/Usman132/RAJPOOT1100
 \x1b[1;96m\033[1;96mVersion  :            1.1.2  
 \x1b[1;96m__________________________________________________
                                                  """
